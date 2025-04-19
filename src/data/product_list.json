@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Expense Tracker",
+      "image": "/images/Portfolio-Banners.001.jpeg",
+      "description": "Expense Tracker is a simple yet powerful iOS app designed to help you effortlessly manage your daily income and expenses. Whether you want to track your monthly budget, monitor your spending habits.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/ExpenseTracker"
+    },
+    {
+      "id": 2,
+      "title": "Creative Memo",
+      "image": "/images/Portfolio-Banners.004.jpeg",
+      "description": "Take note-taking to the next level with this feature-rich Creative Memo App!Built with SwiftUI and following the MVVM architecture, this app offers a seamless, modern, and efficient note-taking experience.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/CreativeMemo"
+    },
+    {
+      "id": 3,
+      "title": "Currency Converter",
+      "image": "/images/Portfolio-Banners.005.jpeg",
+      "description": "Whether you're a traveler, a business professional, or someone who simply deals with multiple currencies daily, Currency Converter is designed to make your life easier.Experience real-time exchange rates with a beautiful, intuitive interface built with the power of SwiftUI.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/CurrencyConverter"
+    },
+    {
+      "id": 4,
+      "title": "Password Manager",
+      "image": "/images/Portfolio-Banners.007.jpeg",
+      "description": "Managing dozens of passwords can be frustrating — but it doesn’t have to be.With our Password Manager, your digital life stays safe, organized, and instantly accessible.Built with state-of-the-art encryption and a beautifully simple SwiftUI design, you get both power and peace of mind.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/PasswordManager"
+    },
+    {
+      "id": 5,
+      "title": "Secure Valut",
+      "image": "/images/Portfolio-Banners.009.jpeg",
+      "description": "Launch your own Privacy App with a Smart Twist!SecureVault is a powerful yet discreet app that locks private Photos and Videos — without annoying ads or subscription traps like most competitors.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/SecureVault"
+    },
+    {
+      "id": 6,
+      "title": "Add Music Into Video",
+      "image": "/images/Portfolio-Banners.006.jpeg",
+      "description": "Transform your videos with the perfect soundtrack!Music Into Video is a simple yet powerful app designed to help you bring your videos to life by effortlessly adding your favorite music tracks.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/MusicIntoVideo"
+    },
+    {
+      "id": 7,
+      "title": "QRBar Genner",
+      "image": "/images/Portfolio-Banners.008.jpeg",
+      "description": "Looking for the fastest way to generate or scan QR codes and barcodes?Our app offers you the ultimate all-in-one solution! Whether you want to share a link, contact info, product data, or scan anything around you — this app makes it incredibly easy and fast.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/QrBarCodeGenner"
+    },
+    {
+      "id": 8,
+      "title": "Flutter eShop UI",
+      "image": "/images/Portfolio-Banners.003.jpeg",
+      "description": "Perfect for developers and businesses aiming to build their own robust and scalable eCommerce platform, this codebase is designed using Flutter, enabling seamless cross-platform development for both Android and iOS.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/eCommerce-Flutter"
+    },
+    {
+      "id": 9,
+      "title": "Weather (Realtime Data)",
+      "image": "/images/Portfolio-Banners.010.jpeg",
+      "description": "Discover a beautifully crafted weather experience, built from the ground up using SwiftUI. Our Weather app delivers real-time weather updates with a sleek, intuitive, and familiar interface — a tribute to the simplicity and elegance of the native iOS Weather app.",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/Weather"
+    },
+    {
+      "id": 10,
+      "title": "Car Movement on Map",
+      "image": "/images/Portfolio-Banners.002.jpeg",
+      "description": "Bring your apps to life with CarMover — a premium Swift module that adds real-time car movement, intelligent routing, and rich navigation experience directly into any iOS app!",
+      "isFeatured": true,
+      "techStack": ["iOS", "Swift"],
+      "url": "https://majharulhuq.gumroad.com/l/CarMovement"
+    }
+  ]
+}
