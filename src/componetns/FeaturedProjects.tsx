@@ -1,6 +1,7 @@
 import { BackgroundGradient } from "@/utils/background-gradient";
 import projectData from "../data/product_list.json";
 import Link from "next/link";
+import Image from "next/image";
 
 interface Project {
   id: number;
@@ -28,7 +29,7 @@ function FeaturedProjects() {
             key={project.id}
             className="rounded-[22px] p-4 sm:p-5 bg-white dark:bg-zinc-900"
           >
-            <img
+            <Image
               src={project.image}
               alt={project.title}
               loading="lazy"

@@ -19,7 +19,7 @@ function HeroSection() {
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Discover a curated collection of high-quality products designed to
-          meet your every need. Whether you're looking for innovation,
+          meet your every need. Whether you are looking for innovation,
           affordability, or elegance, our selection offers something for
           everyone—crafted with care, backed by quality, and ready to elevate
           your experience.
